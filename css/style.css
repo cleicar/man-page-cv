@@ -17,14 +17,14 @@ h1 {
 }
 .subtext {
   margin: 0px 0px 10px 50px;
-  width: 575px;
+  width: 600px;
 }
 .doublesubtext {
   margin: 0px 0px 10px 70px;
-  width: 525px;
+  width: 600px;
 }
 .triplesubtext {
-  margin: 0px 0px 10px 90px;
+  margin: 0px 0px 10px 50px;
   width: 475px;
 }
 .bottomcut {
